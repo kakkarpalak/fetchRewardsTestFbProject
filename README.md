@@ -26,5 +26,5 @@ c)  Username and password needs to be passed in the code.
 Exit code
 a)	Use quit() to close the application
 
-Run the code and see the result in emulator or any mobile connected device.
+Run the code and see the result in emulator or any connected mobile device.
 
